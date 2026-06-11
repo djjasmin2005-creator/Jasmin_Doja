@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="app/static/images/entralens_logo.png" width="500">
+</p>
 # EntraLens AI Identity Security Copilot
 > AI Intent Detection + Natural Language to SQL Query Generation for Microsoft Entra ID Security Analytics.
 
@@ -6,6 +9,42 @@
 EntraLens is an AI-powered Identity Security Copilot designed for Microsoft Entra ID environments. The platform combines Identity Security Analytics, AI Intent Detection, Natural Language to SQL Query Generation, Voice Assistant capabilities, and PostgreSQL-based security investigations.
 
 Users can ask questions in English or Bangla, and the AI automatically detects user intent, generates SQL queries, executes them against the EntraLens database, and returns real-time results.
+## Application Screenshots
+
+### Login Page
+
+![Login Page](app/static/images/Login_Page.png)
+
+---
+
+### Dashboard Overview
+
+![Dashboard Overview](app/static/images/Dashboard_Overview.png)
+
+---
+
+### User Management
+
+![User Management](app/static/images/User_Management.png)
+
+---
+
+### AI Intent to SQL Query Generator
+
+![AI Intent SQL](app/static/images/AI_Intent_SQL_Query_Generator.png)
+### AI Intent Detection Workflow
+
+```text
+User Question (English/Bangla)
+        ↓
+Intent Detection
+        ↓
+SQL Query Generation
+        ↓
+PostgreSQL Execution
+        ↓
+Real-time Result Display
+```
 
 ---
 
