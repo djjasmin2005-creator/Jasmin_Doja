@@ -45,7 +45,22 @@ PostgreSQL Execution
         ↓
 Real-time Result Display
 ```
+## 🎥 Project Demonstration Video
 
+Watch the complete EntraLens project presentation:
+
+[▶ Watch Demo Video](https://youtu.be/pq_PSyJzS7Y)
+
+### Demonstrated Features
+
+- Login Authentication
+- Dashboard Overview
+- User Management
+- AI Intent Detection
+- Natural Language to SQL Generation
+- PostgreSQL Query Execution
+- Voice Assistant
+- Security Investigation Output
 ---
 
 ## Problem Statement
