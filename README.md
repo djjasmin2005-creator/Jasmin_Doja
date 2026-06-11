@@ -1,5 +1,5 @@
-# EntraLens
-# EntraLens AI Identity Security Copilot
+# EntraLens Intelligent Identity Security Copilot
+> AI Intent Detection + Natural Language to SQL Query Generation for Microsoft Entra ID Security Analytics.
 
 ## Overview
 
