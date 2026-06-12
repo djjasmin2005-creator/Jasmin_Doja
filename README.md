@@ -62,7 +62,17 @@ Watch the complete EntraLens project presentation:
 - Voice Assistant
 - Security Investigation Output
 ---
+## 📄 Project Documents
 
+### Project Details
+
+- [EntraLens Project Details](docs/EntraLens_Project_Details.pdf)
+
+### Final Submission Report
+
+- [EntraLens Final Submission Report](docs/EntraLens_Project_Submission_Report.pdf)
+
+---
 ## Problem Statement
 
 Identity administrators often struggle to investigate security incidents, inactive users, MFA compliance issues, privileged accounts, and licensing information using manual database queries.
