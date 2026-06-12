@@ -49,7 +49,7 @@ Real-time Result Display
 
 Watch the complete EntraLens project presentation:
 
-[▶ Watch Demo Video](https://youtu.be/pq_PSyJzS7Y)
+[▶ Watch Demo Video](https://youtu.be/abuGDirdbpY)
 
 ### Demonstrated Features
 
